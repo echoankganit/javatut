@@ -1,7 +1,7 @@
 /*
 Enter any number: 1221
 After reversing the digits: 1221
-1221 is a palindrome number.
+1221 is a palindrome number
 */
 
 import java.util.Scanner;
@@ -9,7 +9,7 @@ class Palindrome{
 	public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int num, rem, num1=0, temp;
-        System.out.print("Enter any number: ");
+        System.out.print("Enter the number: ");
         num = sc.nextInt();
         temp=num;
 
