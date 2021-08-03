@@ -1,7 +1,7 @@
 /*
-Enter any number: 1221
-After reversing the digits: 1221
-1221 is a palindrome number
+Enter the number: 12569
+After reversing the digits: 96521
+12569 is not a palindrome number.
 */
 
 import java.util.Scanner;
